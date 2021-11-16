@@ -1,2 +1,5 @@
 build/
 *.so
+.vscode/
+.ipynb_checkpoints/
+*.pdf
